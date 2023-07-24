@@ -7,4 +7,10 @@ import TodoApp from './components/TodoApp.vue';
   <TodoApp />
 </template>
 
-<style scoped></style>
+<style scoped>
+#app {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: #2c3e50;
+}
+</style>
